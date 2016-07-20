@@ -1,0 +1,65 @@
+#pixnet{	
+	width: 120px;
+	height: 50px;
+	position:absolute;
+	top:10px;
+	left:10px;
+}
+
+#login{	
+	position:absolute;
+	top:15px;
+	left:1100px;
+}
+#register{
+	position:absolute;
+	top:40px;
+	left:1100px;
+}
+
+
+#list{
+	background-color:#CC00FF;
+	width: 1215px;
+	height: 55px;
+	position:absolute;
+	top:10px;
+	left:140px;
+}
+
+#list form{
+	position:absolute;
+	top:15px;
+	left:10px;
+	
+}
+
+#article{
+	background-color:#33FF33;
+	width: 850px;
+	height: 570px;
+	position:absolute;
+	top:70px;
+	left:10px;
+
+}
+
+#store{
+	background-color:#DDFF77;
+	width: 485px;
+	height: 250px;
+	position:absolute;
+	top:70px;
+	left:870px;
+
+}
+
+#googlemap{
+	background-color:#FFA488;
+	width: 485px;
+	height: 310px;
+	position:absolute;
+	top:330px;
+	left:870px;
+
+}
